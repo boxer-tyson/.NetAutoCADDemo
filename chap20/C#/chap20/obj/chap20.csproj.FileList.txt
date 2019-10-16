@@ -1,0 +1,5 @@
+bin\Debug\chap20.dll
+bin\Debug\chap20.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\chap20.dll
+obj\Debug\chap20.pdb

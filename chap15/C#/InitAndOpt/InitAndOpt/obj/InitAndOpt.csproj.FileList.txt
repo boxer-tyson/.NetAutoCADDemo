@@ -1,0 +1,5 @@
+bin\Debug\InitAndOpt.dll
+bin\Debug\InitAndOpt.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\InitAndOpt.dll
+obj\Debug\InitAndOpt.pdb

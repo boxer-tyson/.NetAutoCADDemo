@@ -1,0 +1,5 @@
+bin\Debug\chap19.dll
+bin\Debug\chap19.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\chap19.dll
+obj\Debug\chap19.pdb

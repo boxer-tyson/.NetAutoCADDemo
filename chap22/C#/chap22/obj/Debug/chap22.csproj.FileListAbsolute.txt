@@ -1,0 +1,3 @@
+C:\Users\Administrator\Desktop\VB.NET开发资料\AUTOCAD VBA & VB.net 开发 随书光盘 源文件\chap22\C#\chap22\obj\Debug\chap22.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VB.NET开发资料\AUTOCAD VBA & VB.net 开发 随书光盘 源文件\chap22\C#\chap22\obj\Debug\chap22.dll
+C:\Users\Administrator\Desktop\VB.NET开发资料\AUTOCAD VBA & VB.net 开发 随书光盘 源文件\chap22\C#\chap22\obj\Debug\chap22.pdb

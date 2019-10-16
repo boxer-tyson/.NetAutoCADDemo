@@ -1,0 +1,6 @@
+*hide linetype
+A,3,-3
+*text linetype
+A,4,-2,["cad",standard,s=2,x=-1,y=-1],-7
+*circle linetype
+A,16,[CIRCLE,MyShape.shx],-2

@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\chap18.Resources.resources
+obj\Debug\chap18.vbproj.GenerateResource.Cache
+bin\Debug\chap18.dll
+bin\Debug\chap18.pdb
+bin\Debug\chap18.xml
+obj\Debug\chap18.dll
+obj\Debug\chap18.xml
+obj\Debug\chap18.pdb
